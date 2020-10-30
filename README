@@ -1,1 +1,12 @@
 # GutHub_test
+mkdir <dir>
+cd <dir>
+git init
+copy con README
+git add .
+Chrome => GitHub => Repositories
+New repository
+copy <URL>
+git remote add main <URL>
+git remote -v
+git push <GitHub branch> <local branch>
