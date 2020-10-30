@@ -2,7 +2,7 @@
 mkdir <dir>
 cd <dir>
 git init
-copy con README ... lisää tesktiä ja paina <CTRL><Z>
+copy con README ... lisää tekstiä ja paina <CTRL><Z> tai esim notepadissa
 git add .
 git commit -m "First commit"
 Chrome => GitHub => Repositories
