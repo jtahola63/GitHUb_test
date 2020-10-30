@@ -10,4 +10,5 @@ New repository
 copy <URL>
 git remote add main <URL>
 git remote -v
+get status => show what is your local branch name
 git push <GitHub branch> <local branch>
