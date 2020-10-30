@@ -4,6 +4,7 @@ cd <dir>
 git init
 copy con README
 git add .
+git commit -m "First commit"
 Chrome => GitHub => Repositories
 New repository
 copy <URL>
